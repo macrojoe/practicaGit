@@ -16,5 +16,6 @@ Omi Rodríguez
 Armando Espinoza Acosta
 Amin Akbar Fallad Guerrero  
 Abraham Chavez Huizar  
-Martinez Gonzalez Luis Alejandro
+Martinez Gonzalez Luis Alejandro  
+Roberto David Rios Sanchez  
 
