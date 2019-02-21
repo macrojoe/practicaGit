@@ -1,4 +1,4 @@
-﻿﻿﻿# Lista de nombres  
+﻿﻿﻿﻿# Lista de nombres  
 Brian Alejandro Muñoz Marin  
 Joe  
 Josue Emmanuel Castillo Ponce  
@@ -9,8 +9,10 @@ De la Cruz Belmponte Christian Omar
 Higuera Renteria Andres  
 Jose Carlos Tolosa Fuentes  
 Muñoz Marin Brian Alejandro  
-Higuera Renteria Andres
+Higuera Renteria Andres  
 Leonardo Daniel Navarro Mandujano  
-Omi Rodríguez
-Armando Espinoza Acosta
-Abraham Chavez Huizar  
+Fallad Guerrero Amin Akbar
+Omi Rodríguez  
+Armando Espinoza Acosta  
+Amin Akbar Fallad Guerrero  
+Abraham Chavez Huizar     
