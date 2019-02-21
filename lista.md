@@ -1,4 +1,4 @@
-# Lista de nombres  
+﻿# Lista de nombres  
 Brian Alejandro Muñoz Marin  
 Joe  
 Josue Emmanuel Castillo Ponce  
@@ -10,3 +10,4 @@ Jose Alfredo Molina Castañeda
 Muñoz Marin Brian Alejandro  
 De la Cruz Belmponte Christian Omar  
 Higuera Renteria Andres  
+Jose Carlos Tolosa Fuentes  
