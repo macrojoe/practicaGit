@@ -1,4 +1,4 @@
-﻿﻿# Lista de nombres  
+﻿﻿﻿# Lista de nombres  
 Brian Alejandro Muñoz Marin  
 Joe  
 Josue Emmanuel Castillo Ponce  
@@ -12,5 +12,5 @@ Muñoz Marin Brian Alejandro
 Higuera Renteria Andres
 Leonardo Daniel Navarro Mandujano  
 Omi Rodríguez
+Armando Espinoza Acosta
 Abraham Chavez Huizar  
-
