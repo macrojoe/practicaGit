@@ -13,6 +13,7 @@ Higuera Renteria Andres
 Leonardo Daniel Navarro Mandujano  
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Omi Rodríguez
 Armando Espinoza Acosta
 Martinez Gonzalez Luis Alejandro
@@ -20,3 +21,4 @@ Fallad Guerrero Amin Akbar
 Omi Rodríguez
 Armando Espinoza Acosta
 Amin Akbar Fallad Guerrero  
+Abraham Chavez Huizar  
