@@ -4,6 +4,7 @@ Brian Alejandro Muñoz Marin
 =======
 Joe  
 Josu� Emmanuel Castillo Ponce    
-Gonzalez Hernandez Edmundo  
+Gonzalez Hernandez Edmundo   
+De la Cruz Belmponte Christian Omar
 >>>>>>> 674ea419d4f5e3b33d680ba7fe367d174e5f3b7a  
 Muñoz Marin Brian Alejandro  
