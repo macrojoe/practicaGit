@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Lista de nombres  
+=======
+# Lista de nombres
+>>>>>>> 0e5c73fe55eee78d98bba5f219770e8a3e8e32ce
 Brian Alejandro Muñoz Marin  
 Joe  
 Josue Emmanuel Castillo Ponce  
@@ -13,3 +17,4 @@ Higuera Renteria Andres
 Leonardo Daniel Navarro Mandujano  
 Fallad Guerrero Amin Akbar
 Omi Rodríguez
+Armando Espinoza Acosta
