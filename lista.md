@@ -1,13 +1,14 @@
 ﻿# Lista de nombres  
 Brian Alejandro Muñoz Marin  
 Joe  
-Elias Arriaga  
 Josue Emmanuel Castillo Ponce  
-Gonzalez Hernandez Edmundo  
-Muñoz Marin Brian Alejandro  
+Elias Arriaga  
+Gonzalez Hernandez Edmundo   
 Jose Alfredo Molina Castañeda  
 De la Cruz Belmponte Christian Omar  
 Higuera Renteria Andres  
 Jose Carlos Tolosa Fuentes  
+Muñoz Marin Brian Alejandro  
+Higuera Renteria Andres
 Leonardo Daniel Navarro Mandujano  
-
+Omi Rodríguez
