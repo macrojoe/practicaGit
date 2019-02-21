@@ -1,3 +1,4 @@
 # Lista de nombres
 Joe  
-Josué Emmanuel Castillo Ponce    
+Josuï¿½ Emmanuel Castillo Ponce    
+Gonzalez Hernandez Edmundo  
