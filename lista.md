@@ -9,7 +9,7 @@ De la Cruz Belmponte Christian Omar
 Higuera Renteria Andres  
 Jose Carlos Tolosa Fuentes  
 Muñoz Marin Brian Alejandro  
-Higuera Renteria Andres
+Higuera Renteria Andres  
 Leonardo Daniel Navarro Mandujano  
-Omi Rodríguez
-Armando Espinoza Acosta
+Omi Rodríguez  
+Armando Espinoza Acosta  
