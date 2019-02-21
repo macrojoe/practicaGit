@@ -9,4 +9,6 @@ Muñoz Marin Brian Alejandro
 Jose Alfredo Molina Castañeda  
 Muñoz Marin Brian Alejandro  
 De la Cruz Belmponte Christian Omar  
-Higuera Renteria Andres  
+Higuera Renteria Andres
+Leonardo Daniel Navarro Mandujano  
+>>>>>>> 16c5fcc2d23110a1eb8d6fafff96693cdcedbc8c
