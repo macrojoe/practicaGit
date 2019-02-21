@@ -1,4 +1,4 @@
-﻿﻿﻿﻿# Lista de nombres  
+﻿﻿﻿﻿﻿# Lista de nombres  
 Brian Alejandro Muñoz Marin  
 Joe  
 Josue Emmanuel Castillo Ponce  
@@ -15,4 +15,4 @@ Fallad Guerrero Amin Akbar
 Omi Rodríguez  
 Armando Espinoza Acosta  
 Amin Akbar Fallad Guerrero  
-Abraham Chavez Huizar     
+Abraham Chavez Huizar  
