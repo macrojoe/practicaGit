@@ -1,12 +1,15 @@
 # Lista de nombres
-Joe  
-Armando Espinoza Acosta  
 Brian Alejandro Muñoz Marin  
+Joe  
 Josue Emmanuel Castillo Ponce  
-Gonzalez Hernandez Edmundo  
-De la Cruz Belmponte Christian Omar  
-Muñoz Marin Brian Alejandro  
 Elias Arriaga  
+Gonzalez Hernandez Edmundo   
 Jose Alfredo Molina Castañeda  
+De la Cruz Belmponte Christian Omar  
 Higuera Renteria Andres  
+Jose Carlos Tolosa Fuentes  
+Muñoz Marin Brian Alejandro  
+Higuera Renteria Andres
 Leonardo Daniel Navarro Mandujano  
+Omi Rodríguez
+Armando Espinoza Acosta
