@@ -11,14 +11,10 @@ Jose Carlos Tolosa Fuentes
 Muñoz Marin Brian Alejandro  
 Higuera Renteria Andres  
 Leonardo Daniel Navarro Mandujano  
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Omi Rodríguez
-Armando Espinoza Acosta
-Martinez Gonzalez Luis Alejandro
 Fallad Guerrero Amin Akbar
 Omi Rodríguez
 Armando Espinoza Acosta
 Amin Akbar Fallad Guerrero  
 Abraham Chavez Huizar  
+Martinez Gonzalez Luis Alejandro
+
