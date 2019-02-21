@@ -1,20 +1,16 @@
-﻿# Lista de nombres
-Brian Alejandro Muñoz Marin
-
-Joe
-
-Josue Emmanuel Castillo Ponce
-
-Elias Arriaga
-
-Josue Emmanuel Castillo Ponce
-
-Gonzalez Hernandez Edmundo
-
-Muñoz Marin Brian Alejandro
-
-De la Cruz Belmponte Christian Omar
-
+﻿﻿# Lista de nombres  
+Brian Alejandro Muñoz Marin  
+Joe  
+Josue Emmanuel Castillo Ponce  
+Elias Arriaga  
+Gonzalez Hernandez Edmundo   
+Jose Alfredo Molina Castañeda  
+De la Cruz Belmponte Christian Omar  
+Higuera Renteria Andres  
+Jose Carlos Tolosa Fuentes  
+Muñoz Marin Brian Alejandro  
 Higuera Renteria Andres
-
+Leonardo Daniel Navarro Mandujano  
+Omi Rodríguez
 Abraham Chavez Huizar  
+
